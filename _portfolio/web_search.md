@@ -1,6 +1,6 @@
 ---
-title: "COVID-19-related Web-Search"
-excerpt: "Do racial composition and political climate influence U.S. health literacy?<br/><img src='/images/500x300.png'>"
+title: "COVID-19 Web-Search Behavior"
+excerpt: "Do racial composition and political climate influence U.S. health literacy?<br/><img src='/images/plot_ideology.png'>"
 collection: portfolio
 ---
 
@@ -8,7 +8,8 @@ collection: portfolio
 ### Chen-Shuo Hong
 #### June 7, 2020
 
-### Significance: In the wake of COVID-19 pandemic, it becomes important to promote [health literacy](https://www.nature.com/articles/s41562-020-0884-z) at the population level to stem the spread of virus. However, not all behaviors that aims to contain the pandemic are welcome in the U.S. In fact, some types of behavior, such as wearing face masks, have been regarded as a stigma for certain [racial and ethnic groups](https://www.nytimes.com/2020/04/14/us/coronavirus-masks-racism-african-americans.html). Also, in some states there were [protesters publicly gathered](https://www.nytimes.com/2020/05/13/business/media/lockdown-protests-reporters.html) against the stay-at-home restrictions, which is a strategy to keep social distancing. COVID-19-related protective behavior is not only related to public health, but also tied to culture and politics.
+### Significance: In the wake of COVID-19 pandemic, it becomes important to promote [health literacy](https://www.nature.com/articles/s41562-020-0884-z) at the population level to stem the spread of virus. However, not all behaviors that aims to contain the pandemic are welcome in the U.S. In fact, some types of behavior, such as wearing face masks, have been regarded as a stigma for certain [racial and ethnic groups](https://www.nytimes.com/2020/04/14/us/coronavirus-masks-racism-african-americans.html). Also, in some states [protesters publicly gathered](https://www.nytimes.com/2020/05/13/business/media/lockdown-protests-reporters.html) against the stay-at-home restrictions. COVID-19-related protective behavior is not only related to public health, but also tied to culture and politics.
+
 
 In this post, I explore the associations between racial composition, political climate, and COVID-19-related behavior. I focus on three major behaviors: hand washing, face masks, and social distancing. Using survey and digital trace data, I show that people living in the U.S. are likely to pay attention to specific behavior based upon their living environments, such as racial compositions and political climates.
 
