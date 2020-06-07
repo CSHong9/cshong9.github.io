@@ -14,7 +14,7 @@ collection: portfolio
 
 Figure 1 shows people’s interests on these three behaviors in the U.S. over a year. The higher the number of hits, the more popular the keyword. In February 2019, people began searching face masks when China reported more COVID-19 cases and deaths. 
 
-<img src='/images/plot_behavior.png'>
+<img src='/images/plot_behavior.png' width="80%" height="80%">
 
 Figure 1. Trends in Google search. Source: Google Trends.
 
