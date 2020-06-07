@@ -14,15 +14,22 @@ In this post, I explore the associations between racial composition, political c
 
 Figure 1 shows people’s interests on these three behaviors in the U.S. over a year. The higher the number of hits, the more popular the keyword. In February 2019, people began searching face masks when China reported more COVID-19 cases and deaths. 
 
+<img src='/images/plot_behavior.png'>
+
 Figure 1. Trends in Google search. Source: Google Trends.
 
 Social distancing became popular keyword after the Centers for Disease Control and Prevention (CDC) announced its [social distancing recommendations](https://www.nytimes.com/2020/03/16/smarter-living/coronavirus-social-distancing.html) in March. It is then in early April that people again searched face masks when CDC incorporated face masks as part of its [guideline](https://www.cdc.gov/coronavirus/2019-ncov/prevent-getting-sick/diy-cloth-face-coverings.html). Interesting, face masks was the most popular keyword during the pandemic compared to social distancing and hand washing. I suspect that this phenomenon might be associated with states racial composition.
 
 Figure 2. shows an interesting pattern. Whereas the states which have larger White population becomes aware of all three protective behaviors, those which have larger Black population seems to search the terms less.  Asian population, in contrast, pay a lot of attention to face masks and social distancing. The results do not mean racial groups have difference individual preferences given we only have state-level data. However, they demonstrates that racial composition in a state may influence residents’ perception of risk and shape their online search behavior.
 
+<img src='/images/plot_behavior_a.png'>
+<img src='/images/plot_race.png'>
+
 Figure 2. Correlation between racial composition and Google search. Sources: Google Trends and IPUMS USA, University of Minnesota, www.ipums.org.
 
-Political climate may also shape people’s perception of COVID-19 risk. Figure 3. illustrates how states’ political ideology correlates with online search. Compared to hand washing, face masks and social distancing are strongly negatively correlated with the proportion of conservative ideology in a state. That is, the more the residents hold conservative ideology, the less they search for keywords that include face masks and social distancing. It may explain why in some states, such as  
+Political climate may also shape people’s perception of COVID-19 risk. Figure 3. illustrates how states’ political ideology correlates with online search. Compared to hand washing, face masks and social distancing are strongly negatively correlated with the proportion of conservative ideology in a state. That is, the more the residents hold conservative ideology, the less they search for keywords that include face masks and social distancing.
+
+<img src='/images/plot_ideology.png'>
 
 Figure 3. Correlation between political ideology and Google search. Sources: Google Trends and Gallup.
 
