@@ -22,8 +22,8 @@ Social distancing became a popular keyword after the Centers for Disease Control
 
 Figure 2. shows an interesting pattern of the relation between race and search behavior. Whereas the states which have larger White populations become aware of all three protective behaviors, those which have larger Black populations seem to search the terms less.  Asian population, in contrast, paid a lot of attention to face masks and social distancing. Given we only have state-level data, the results do not mean racial groups have different individual preferences. However, those results demonstrate racial composition in a state may influence residents’ perception of risk and shape their online search behavior.
 
-<img src='/images/plot_behavior_a.png'>
-<img src='/images/plot_race.png'>
+<img src='/images/plot_behavior_a.png' width='80%' height='80%'>
+<img src='/images/plot_race.png' width='80%' height='80%'>
 
 Figure 2. Correlation between racial composition and Google search. Sources: Google Trends and IPUMS USA, University of Minnesota, www.ipums.org.
 
