@@ -1,6 +1,6 @@
 ---
 title: "COVID-19 Web-Search Behavior"
-excerpt: "Do racial composition and political climate influence U.S. health literacy?<br/><img src='/images/plot_ideology.png' width="60%" height="60%"/>"
+excerpt: "Do racial composition and political climate influence U.S. health literacy?<br/><img src='/images/plot_ideology.png'>"
 collection: portfolio
 ---
 
