@@ -23,13 +23,13 @@ Social distancing became a popular keyword after the Centers for Disease Control
 Figure 2. shows an interesting pattern of the relation between race and search behavior. Whereas the states which have larger White populations become aware of all three protective behaviors, those which have larger Black populations seem to search the terms less.  Asian population, in contrast, paid a lot of attention to face masks and social distancing. Given we only have state-level data, the results do not mean racial groups have different individual preferences. However, those results demonstrate racial composition in a state may influence residents’ perception of risk and shape their online search behavior.
 
 <img src='/images/plot_behavior_a.png' width='80%' height='80%'>
-<img src='/images/plot_race.png' width='75%' height='75%'>
+<img src='/images/plot_race.png' width='80%' height='80%'>
 
 Figure 2. Correlation between racial composition and Google search. Sources: Google Trends and IPUMS USA, University of Minnesota, www.ipums.org.
 
 Political climate may also shape people’s perception of COVID-19 risk. Figure 3. illustrates how state-level political ideology correlates with online search. Compared to hand washing, face masks and social distancing are strongly negatively correlated with the proportion of conservative ideology in a state. That is, the more the residents hold conservative ideology, the less they search for keywords that include face masks and social distancing.
 
-<img src='/images/plot_ideology.png'>
+<img src='/images/plot_ideology.png' width='80%' height='80%'>
 
 Figure 3. Correlation between political ideology and Google search. Sources: Google Trends and Gallup.
 
