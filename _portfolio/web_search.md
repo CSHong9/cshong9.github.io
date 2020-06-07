@@ -4,7 +4,7 @@ excerpt: "Do racial composition and political climate influence people's health 
 collection: portfolio
 ---
 
-# Do racial composition and political climate influence U.S. health literacy?
+# Do racial composition and political climate influence people's health literacy in the U.S.?
 ### Chen-Shuo Hong
 #### June 7, 2020
 
