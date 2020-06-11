@@ -27,7 +27,7 @@ Figure 2. shows an interesting pattern of the relation between racial compositio
 
 Figure 2. Correlation between racial composition and Google search. Sources: Google Trends and IPUMS USA, University of Minnesota, www.ipums.org.
 
-Political climate may also shape people’s perception of COVID-19 risk. Figure 3. illustrates how state-level political ideology correlates with online search. Compared to hand washing, face masks and social distancing are strongly negatively correlated with the proportion of conservative ideology in a state. That is, the more the residents hold conservative ideology, the less they search for keywords that include face masks and social distancing.
+Political climate also shapes people’s perception of COVID-19 risk. Figure 3. illustrates how state-level political ideology correlates with online search. Compared to hand washing, face masks and social distancing are strongly negatively correlated with the proportion of conservative ideology in a state. That is, the more the residents hold conservative ideology, the less they search for keywords that include face masks and social distancing.
 
 <img src='/images/plot_ideology.png' width='80%' height='80%'>
 
