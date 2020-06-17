@@ -3,6 +3,7 @@ layout: archive
 title: "2020 Summer Institute of Computational Social Science at Rutgers University!"
 permalink: /news/
 author_profile: true
+date: 2020-06-15
 redirect_from:
   - /news
 ---
