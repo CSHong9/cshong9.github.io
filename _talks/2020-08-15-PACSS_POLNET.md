@@ -10,4 +10,4 @@ collection: news
 location: Northeastern University, MA
 ---
 
-An excellent opportunities to meet talented scholars in compututational social science. I also preseted my simulation project which is titled "Can we reduce polarization on social media? Examining effects of selection and influence in political discussion," and get so much positive feedback.
+An excellent opportunities to meet talented scholars in compututational social science. Also preseted my simulation project titled "Can We Reduce Polarization on Social Media? Examining Effects of Selection and Influence in Political Discussion."
