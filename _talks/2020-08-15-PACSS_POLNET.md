@@ -4,7 +4,7 @@ collection: talks
 type: "Conference"
 permalink: /talks/2020-08-10-ASA-1
 venue: "Academic Conference"
-excerpt: "Simulation work presentated at PaCSS and Polnet conference!"
+excerpt: "Simulation work presented at PaCSS and Polnet conference!"
 date: 2020-08-15
 collection: news
 location: Northeastern University, MA
