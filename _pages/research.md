@@ -37,6 +37,7 @@ My research focuses on three fields: health & population, culture & inequality, 
   * **[Fake News Virality: Relational Niches and the Diffusion of COVID-19 Vaccine Misinformation.](https://doi.org/10.1016/j.ssresearch.2024.103004)** (2024, *Social Science Research*) 
       * Annual Best Comprehensive Examination Paper Award, Department of Sociology, UMass-Amherst
       * This research utilized over one million English-language tweets about the COVID-19 vaccine and applied social network analysis to explore why only fake news publishers are able to spread COVID-19 vaccine-related misinformation.
-      * The findings revealed a startling discovery. While echo chambers, a well-established online phenomenon referring to the connections among fake news publishers, did facilitate the virality of fake news, surprisingly, excessive interconnectedness among fake news publishers hindered the diffusion of false information. Moreover, exposure to reliable sources, such as mainstream media, did not assist audiences in distinguishing between false and reliable information but instead facilitated the spread of vaccine misinformation.
+      * The findings revealed a startling discovery. While echo chambers, a well-established online phenomenon referring to the connections among fake news publishers, did facilitate the virality of fake news, surprisingly, excessive interconnectedness among fake news publishers hindered the diffusion of false information.
+      * Moreover, exposure to reliable sources, such as mainstream media, did not assist audiences in distinguishing between false and reliable information but instead facilitated the spread of vaccine misinformation.
 
 <br/><br/>
