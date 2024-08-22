@@ -31,7 +31,7 @@ My research focuses on three fields: health & population, culture & inequality, 
   * **[Network Spillover in Food Choice among Co-workers using Data from ChooseWell 365 Randomized Controlled Trial to Promote Healthy Eating](https://doi.org/10.1016/j.socscimed.2024.117033)** (2024, *Social Science & Medicine*) 
       * Co-author with Mark C. Pachucki, A. James O’Malley, Douglas E. Levy, Anne N. Thorndike
       * This research is one of the first studies that systematically investigate records of millions of cafeteria purchases from thousands of employees for more than four years and included participants and non-participants in a workplace wellness program to estimate network spillover effects on food choices.
-      * We found that changes in food purchase behaviors extended from employees actually enrolled in the program to their socially-tied coworkers who were not themselves intervention participants.  
+      * We found that changes in food purchase behaviors extended from employees actually enrolled in the program to their socially-tied coworkers who were not themselves intervention participants.
 <br/><br/>
 
   * **[Fake News Virality: Relational Niches and the Diffusion of COVID-19 Vaccine Misinformation.](https://doi.org/10.1016/j.ssresearch.2024.103004)** (2024, *Social Science Research*) 
