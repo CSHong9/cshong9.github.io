@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Chen-Shuo Hong"
+title                    : "Chen-Shuo Hong | NTU Sociology"
 title_separator          : "-"
 name                     : &name "Chen-Shuo Hong"
-description              : &description "PhD Student in Sociology at the University of Massachusetts, Amherst"
+description              : &description "Dr. Chen-Shuo Hong, Assistant Professor of Sociology, National Taiwan University. PhD in Sociology at the University of Massachusetts, Amherst"
 url                      : https://cshong9.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "cshong9.github.io"
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Chen-Shuo Hong"
   avatar           : "Photo_ChenShuo_Hong.JPG"
-  bio              : "PhD Student in Sociology at the University of Massachusetts, Amherst"
-  location         : "Amherst, Massachusetts"
+  bio              : "Dr. Chen-Shuo Hong, Assistant Professor of Sociology, National Taiwan University. PhD in Sociology at the University of Massachusetts, Amherst"
+  location         : "Taipei, Taiwan"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
