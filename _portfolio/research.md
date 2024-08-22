@@ -4,7 +4,7 @@ title: "Research"
 permalink: /portfolio/
 author_profile: true
 redirect_from: 
-  - /md/
+  - /research/
   - /research.html
 ---
 
