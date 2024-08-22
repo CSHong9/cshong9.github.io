@@ -3,6 +3,9 @@ layout: archive
 title: "Research"
 permalink: /portfolio/
 author_profile: true
+redirect_from: 
+  - /md/
+  - /research.html
 ---
 
 {% include base_path %}
