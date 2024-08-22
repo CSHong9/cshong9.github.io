@@ -17,10 +17,10 @@ My research focuses on three fields: health & population, culture & inequality, 
 
 ---
 
-  * **Three Essays on Three Essays on Social Ties, Health, and Health Inequalities**  
+  * **Three Essays on Social Ties, Health, and Health Inequalities**  
       * Dissertation project
           * Committee: Mark Pachucki (chair), James Kitts, Youngmin Yi, Douglas Levy (Massachusetts General Hospital/Harvard Medical School)
-      * For my dissertation, I contextualize networks and health through temporality and relationality to understand (1) Patterns, social origins, and returns of of life-course social capital, (2) Long-term impacts of early-life structural advantages, and (3) Potentials of network spillover.
+      * This dissertation contextualizes networks and health through temporality and relationality to understand (1) patterns, social origins, and returns of of life-course social capital, (2) long-term impacts of early-life structural advantages, and (3) network spillover.
 <br/><br/> 
 
   * **[Categorical Closure: Transitivity and Identities in Longitudinal Networks](https://doi.org/10.1016/j.socnet.2024.06.004)** [2024, *Social Networks*] 
